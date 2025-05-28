@@ -168,8 +168,3 @@ The Learning Management System (LMS) is a web-based platform designed to facilit
 ## Appendix
 
 - **Tech Stack:** Django, Django Rest Framework, PostgreSQL, Docker, drf-yasg (for docs)
-- **External Integrations:** [Optional] Stripe for payments, SendGrid for email, AWS S3 for file storage
-
----
-
-*This PRD will serve as a living document and may be updated as requirements evolve during development.*
